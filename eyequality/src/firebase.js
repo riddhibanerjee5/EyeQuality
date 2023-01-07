@@ -6,7 +6,7 @@ import { Redirect } from "react-router";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDinS4fHn2BrnkbqrJiXWUA2amKM5zeoaU",
+  apiKey: "", // removed
   authDomain: "eyequality-d955a.firebaseapp.com",
   projectId: "eyequality-d955a",
   storageBucket: "eyequality-d955a.appspot.com",
